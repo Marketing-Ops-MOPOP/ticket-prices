@@ -1,24 +1,19 @@
 [
   {
-  "Date" : "2025-12-31 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/43194",
-  "Adult" : "$40.00"
-}, {
   "Date" : "2026-01-01 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/tickets/43477",
-  "Adult" : "$38.00"
+  "Adult" : "$40.00"
 }, {
   "Date" : "2026-01-02 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/tickets/43541",
-  "Adult" : "$38.50"
+  "Adult" : "$39.00"
 }, {
   "Date" : "2026-01-03 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/tickets/43542",
-  "Adult" : "$38.00"
+  "Adult" : "$38.50"
 }, {
   "Date" : "2026-01-04 00:00:00",
   "Product" : "General Admission",
