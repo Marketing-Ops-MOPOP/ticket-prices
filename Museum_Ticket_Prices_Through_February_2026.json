@@ -1,39 +1,19 @@
 [
   {
-  "Date" : "2026-01-04 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/43543",
-  "Adult" : "$40.00"
-}, {
-  "Date" : "2026-01-05 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/43544",
-  "Adult" : "$37.00"
-}, {
-  "Date" : "2026-01-06 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/43545",
-  "Adult" : "$36.50"
-}, {
-  "Date" : "2026-01-07 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/43546",
-  "Adult" : "$36.50"
-}, {
   "Date" : "2026-01-08 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/tickets/43547",
-  "Adult" : "$36.50"
+  "Adult" : "$38.50"
 }, {
   "Date" : "2026-01-09 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/tickets/43548",
-  "Adult" : "$37.00"
+  "Adult" : "$38.00"
 }, {
   "Date" : "2026-01-10 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/tickets/43549",
-  "Adult" : "$37.50"
+  "Adult" : "$38.00"
 }, {
   "Date" : "2026-01-11 00:00:00",
   "Product" : "General Admission",
@@ -68,12 +48,12 @@
   "Date" : "2026-01-17 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/tickets/43556",
-  "Adult" : "$37.50"
+  "Adult" : "$38.00"
 }, {
   "Date" : "2026-01-18 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/tickets/43557",
-  "Adult" : "$37.00"
+  "Adult" : "$37.50"
 }, {
   "Date" : "2026-01-19 00:00:00",
   "Product" : "General Admission",
